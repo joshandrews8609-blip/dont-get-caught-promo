@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Don't Get Caught! - Outsmart the Competition</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background-color: #121212; color: #ffffff; text-align: center; padding: 50px 20px; margin: 0; }
+        .container { max-width: 600px; margin: 0 auto; background: #1e1e1e; padding: 40px; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.5); }
+        h1 { color: #ff3b30; font-size: 2.5rem; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 2px; }
+        p { font-size: 1.1rem; line-height: 1.6; color: #b3b3b3; margin-bottom: 30px; }
+        .badge { display: inline-block; background-color: #000000; color: #ffffff; padding: 15px 30px; font-weight: bold; border-radius: 8px; text-decoration: none; border: 2px solid #ff3b30; font-size: 1.2rem; transition: 0.3s; }
+        .badge:hover { background-color: #ff3b30; color: #ffffff; }
+        .footer { margin-top: 40px; font-size: 0.8rem; color: #666666; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Don't Get Caught!</h1>
+        <p>Get ready to outsmart the competition in <strong>Don't Get Caught!</strong>, a high-stakes, fast-paced game of stealth, strategy, and pure panic. Whether you're dodging obstacles, sneaking past guards, or racing against a friend in intense two-player matches, your goal is simple: stay out of sight and do whatever it takes to survive the round. One wrong move will give you away, so keep your cool, move fast, and remember the golden rule—don't get caught!</p>
+        <a href="#" class="badge">Coming Soon to TestFlight</a>
+        <div class="footer">&copy; 2026 Don't Get Caught Game. All Rights Reserved.</div>
+    </div>
+</body>
+</html>
